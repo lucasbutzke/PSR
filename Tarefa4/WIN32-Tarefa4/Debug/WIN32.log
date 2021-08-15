@@ -1,0 +1,8 @@
+﻿  main_blinky.c
+C:\Users\AVELL\Documents\UDESC\Mestrado\Visual Studio\FreeRTOSv10.3.1\FreeRTOSv10.3.1\FreeRTOS\Demo\WIN32-Tarefa4\main_blinky.c(170,31): warning C4100: 'pvParameters': parâmetro formal não referenciado
+C:\Users\AVELL\Documents\UDESC\Mestrado\Visual Studio\FreeRTOSv10.3.1\FreeRTOSv10.3.1\FreeRTOS\Demo\WIN32-Tarefa4\main_blinky.c(223,35): warning C4459: a declaração de 'pxTimer' oculta uma declaração global
+C:\Users\AVELL\Documents\UDESC\Mestrado\Visual Studio\FreeRTOSv10.3.1\FreeRTOSv10.3.1\FreeRTOS\Demo\WIN32-Tarefa4\main_blinky.c(125,22): message : consulte a declaração de 'pxTimer'
+C:\Users\AVELL\Documents\UDESC\Mestrado\Visual Studio\FreeRTOSv10.3.1\FreeRTOSv10.3.1\FreeRTOS\Demo\WIN32-Tarefa4\main_blinky.c(226,28): warning C4113: 'void (__cdecl *)()' difere em listas de parâmetro de 'TaskFunction_t'
+C:\Users\AVELL\Documents\UDESC\Mestrado\Visual Studio\FreeRTOSv10.3.1\FreeRTOSv10.3.1\FreeRTOS\Demo\WIN32-Tarefa4\main_blinky.c(227,7): warning C4101: 'lArrayIndex': variável local não referenciada
+C:\Users\AVELL\Documents\UDESC\Mestrado\Visual Studio\FreeRTOSv10.3.1\FreeRTOSv10.3.1\FreeRTOS\Demo\WIN32-Tarefa4\main_blinky.c(260,36): warning C4100: 'pvParameters': parâmetro formal não referenciado
+  WIN32.vcxproj -> C:\Users\AVELL\Documents\UDESC\Mestrado\Visual Studio\FreeRTOSv10.3.1\FreeRTOSv10.3.1\FreeRTOS\Demo\WIN32-Tarefa4\.\Debug\RTOSDemo.exe
